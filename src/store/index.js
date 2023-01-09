@@ -33,7 +33,7 @@ export default new Vuex.Store({
             name: 'Overte',
             nickname: 'Overte',
             server: 'http://snap.enftr.io:40100', // This needs to at least be pre-filled in order to get all other config information.
-            iceServer: '167.99.17.82',
+            iceServer: 'http://167.99.17.82:40100',
             serverVersion: ''
         },
         dialog: {
